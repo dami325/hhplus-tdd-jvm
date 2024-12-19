@@ -99,6 +99,7 @@ void 유저2명_포인트_충전_동시성_50번_성공() throws InterruptedExce
 ```
 ### 1번 테스트 결과
 <!-- 결과 사진 -->
+![image](https://github.com/user-attachments/assets/91e875cc-5979-4e52-baa1-3066616e8492)
 
 <br><br>
 ### 2번에 대한 테스트 검증을 위한 로그 추가 및 requestId 추가
@@ -164,6 +165,7 @@ void 포인트_충전_동시성_순서_검증() throws InterruptedException {
 
 ### 2번 테스트 결과
 <!-- 결과 사진 -->
+![image](https://github.com/user-attachments/assets/55386d29-476e-40ff-b148-55d30cd65bc9)
 
 <br><br>
 ### 결과
